@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header.jumbotron {
+    background: url('../png/1.png') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 100px 0;
+}
+
+header h1 {
+    font-size: 3.5em;
+    margin-bottom: 20px;
+}
+
+.description {
+    background: #fff;
+}
+
+.contact {
+    background: #f8f9fa;
+}
+
+footer {
+    background: #343a40;
+}
